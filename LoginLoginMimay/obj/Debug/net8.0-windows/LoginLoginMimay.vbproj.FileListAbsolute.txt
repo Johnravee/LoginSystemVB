@@ -1,0 +1,17 @@
+F:\VB\LoginLoginMimay\bin\Debug\net8.0-windows\LoginLoginMimay.exe
+F:\VB\LoginLoginMimay\bin\Debug\net8.0-windows\LoginLoginMimay.deps.json
+F:\VB\LoginLoginMimay\bin\Debug\net8.0-windows\LoginLoginMimay.runtimeconfig.json
+F:\VB\LoginLoginMimay\bin\Debug\net8.0-windows\LoginLoginMimay.dll
+F:\VB\LoginLoginMimay\bin\Debug\net8.0-windows\LoginLoginMimay.pdb
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.Form1.resources
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.vbproj.GenerateResource.cache
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.GeneratedMSBuildEditorConfig.editorconfig
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.AssemblyInfoInputs.cache
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.AssemblyInfo.vb
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.vbproj.CoreCompileInputs.cache
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.sourcelink.json
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.dll
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\refint\LoginLoginMimay.dll
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.pdb
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\LoginLoginMimay.genruntimeconfig.cache
+F:\VB\LoginLoginMimay\obj\Debug\net8.0-windows\ref\LoginLoginMimay.dll
